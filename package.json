@@ -23,10 +23,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/littlewonder/aksh-backend.git.git"
+    "url": "git+https://github.com/ashleymavericks/Speaking-Geo-Assistant-Backened.git"
   },
   "bugs": {
-    "url": "https://github.com/littlewonder/aksh-backend.git/issues"
+    "url": "https://github.com/ashleymavericks/Speaking-Geo-Assistant-Backened.gitissues"
   },
-  "homepage": "https://github.com/littlewonder/aksh-backend.git#readme"
+  "homepage": "https://github.com/ashleymavericks/Speaking-Geo-Assistant-Backened.git#readme"
 }
