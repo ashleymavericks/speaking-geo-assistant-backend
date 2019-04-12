@@ -4,7 +4,7 @@
   "description": "`./dataset/Kurudo_All.ods` has all `.dbf` files consolidated in one file. `possible-questions.org` contains some of the questions which this dataset can answer. `possible-questions.md` has converted Markdown. `visualizing-land-usage-data-in-qgis.png` shows example of what is the nature of this data when visualized.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+   // "test": "echo \"Error: no test specified\" && exit 1",
      "start": "node index.js"
   },
   "author": "anurag",
