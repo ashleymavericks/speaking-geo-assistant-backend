@@ -1,0 +1,31 @@
+{
+    "kurudu": {
+        "area": 503,
+        "area_unit": "hectares",
+        "people": {
+            "population": 2841,
+            "0_6_age": 272,
+            "literacy_rate": 62.30,
+            "sex_ratio": 1014,
+            "sc": 15,
+            "st": 5
+        },
+        "households": 718,
+        "pre_primary_school": "b",
+        "primary_school": 5,
+        "middle_school": 1,
+        "secondary_school": 1,
+        "senior_secondary_school": "b",
+        "dispensary": "c",
+        "hospital": "b",
+        "bus_station": false,
+        "railways": "b",
+        "land": {
+            "non_agricultural": 181,
+            "barren": 28,
+            "pastures": 8.5
+        },
+        
+        "note": "Wherever the amenities are not available in the village, the distance range code viz; ‘a’ for <5 Kms, ‘b’ for 5-10 Kms and ‘c’ for 10+ Kms of the nearest where facility is available is given."
+    }
+}
