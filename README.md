@@ -1,6 +1,6 @@
 Redhat : bit by bit Hackathon
 
-This is the backend of Speaking Geo-GP assistant.
+This is the backend of Speaking Geo HUDD assistant.
 
 ### Following is our tech-stack:
 
@@ -24,3 +24,6 @@ This is the backend of Speaking Geo-GP assistant.
 * `queryMapping.js` : This file maps intent obtained from natural language processing to respective database query.
 
 * `populate-database.js` : This script reads given data from ISRO and populates MongoDB database to optimize queries.
+
+
+Android Application : https://github.com/ashleymavericks/Speaking-Geo-Assistant-Backened
