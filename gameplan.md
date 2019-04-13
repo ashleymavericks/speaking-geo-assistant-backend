@@ -12,9 +12,8 @@
 
   - How many schools are there in 5 km range
   
-aaa
 
-- Where should I build new school? ( TEST PENDING )
+- Where should I build new school?
 
 
 ----
