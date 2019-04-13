@@ -1,3 +1,5 @@
+Redhat : bit by bit Hackathon
+
 This is the backend of Speaking Geo-GP assistant.
 
 ### Following is our tech-stack:
