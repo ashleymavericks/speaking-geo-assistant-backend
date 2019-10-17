@@ -45,8 +45,11 @@ The best part is - all this can be done with regional languages as well.
 * Speak in Hindi
 
     - Nikat-tam rashtriya rajmarga dikhaye
+      निकटतम राष्ट्रीय राजमार्ग दिखाए 
     - Is gram panchayat me kitne log rehte hain
+      इस ग्राम पंचायत मे कितने लोग रहते है 
 
 * Speak in kannada
 
     - how many people live in this panchayat
+      ಈ ಪಂಚಾಯಿತಿಯಲ್ಲಿ ಎಷ್ಟು ಜನರು ವಾಸಿಸುತ್ತಿದ್ದಾರೆ
