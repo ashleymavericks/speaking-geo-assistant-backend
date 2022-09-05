@@ -1,4 +1,4 @@
-Redhat : bit by bit Hackathon
+## Smart Odisha Hackathon, 2018
 
 This is the backend of Speaking Geo HUDD assistant.
 
